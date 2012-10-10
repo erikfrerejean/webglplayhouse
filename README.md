@@ -1,4 +1,1 @@
-webglplayhouse
-==============
-
-Toying around a bit with WebGL
+Will be removed soonish, is replaced by: https://github.com/Leximosi/playground-webgl
